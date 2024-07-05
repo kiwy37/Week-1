@@ -1,4 +1,4 @@
-# Exerciții C#
+# Exerciții C# (Fișa 1)
 
 1. **Calculul sumei**:
     - Scrieti o metoda care calculeaza suma celor doua numere primite ca parametri.
@@ -40,3 +40,19 @@ denumire curs, nota, durata, persoana.
     - Creati o structura de clase care sa contina metode, fielduri, etc, prin care sa exemplificati 
 conceptele oop (abstractizarea, incapsularea, mostenirea si polimosfismul). Adaugati orice 
 alte fielduri si metode de care aveti nevoie pentru a indeplini aceste cerinte
+
+# Exerciții C# (Fișa 2)
+
+1. **Adăpost pentru Animale**:
+    - Într-un adăpost pentru animale sunt găzduiți pisici și câini abandonați. Locurile pentru găzduirea animalelor sunt limitate. Astfel, există cazuri în care nu este loc pentru un nou animal. Dar, din când în când, oamenii vin să vadă și să adopte pisici și câini și astfel se eliberează un loc.
+    - Creați o structură de clase care să ofere această funcționalitate.
+  
+2. **Florărie**:
+    - Scrieți o aplicație de consolă folosind C# pentru a reprezenta o structură de clase pentru o florărie.
+    - În florărie se pot cumpăra flori la bucată sau la buchet. Se oferă 3 tipuri de buchete: buchet mare (format din 9 trandafiri, 10 gladiole și 3 hortensii), buchet mediu (6 trandafiri și 5 gladiole) sau buchet mic (5 trandafiri). Pentru acum, se oferă doar aceste tipuri de buchete.
+    - Prețul unui buchet de flori reprezintă suma prețurilor florilor din care este compus, plus 2 RON pentru asamblare.
+    - Afișați inventarul aproximativ pentru luna noiembrie (vânzări detaliate și încasări), știind următoarele:
+      - Costurile: un trandafir – 10 RON/bucată, o gladiolă – 15 RON/bucată și o hortensie – 30 RON/bucată.
+      - De asemenea, aproximativ pe zi, florarul vinde 35 de buchete (13 mari, 10 medii și 12 mici) și la bucată: 15 trandafiri, 10 gladiole și 25 hortensii.
+    - Vă rugăm să țineți cont că dorim să aplicați cât mai mult cunoștințele OOP (programare orientată pe obiecte), evitând programarea procedurală.
+
